@@ -1,0 +1,3 @@
+Load "FreeRTOS_Example_HAL\\FreeRTOS_Example_HAL.axf" 
+Erase Done.Programming Done.Verify OK.Application running ...
+Flash Load finished at 09:12:14
